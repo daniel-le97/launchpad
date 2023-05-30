@@ -62,4 +62,4 @@ kubeconfig*
 talosconfig*
 *.pub
 *.key
-ansible/inventory
+ansible/inventory/*
